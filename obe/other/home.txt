@@ -1,0 +1,9 @@
+====== OBE Other Terms ======
+
+~~NOCACHE~~
+
+Link to [[:mnk:obe:kt:home|OBE Key Terms]] \\ 
+Link to [[:mnk:obe:home|All OBE Terms]]
+
+
+<nspages mnk:obe:other -title -exclude:home -textPages="List of other terms:">
